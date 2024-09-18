@@ -1,0 +1,10 @@
+name=Alice age=25 gender=female country=US has_pet=true animal=dog
+name=Bob age=40 gender=male country=UK has_pet=true animal=bird
+name=Carol age=28 gender=female country=JP has_pet=true animal=cat
+name=David age=35 gender=male country=AU has_pet=false animal=none
+name=Eve age=22 gender=female country=US has_pet=true animal=fish
+name=Frank age=45 gender=male country=AU has_pet=true animal=dog
+name=Grace age=32 gender=female country=UK has_pet=true animal=bird
+name=Hank age=38 gender=male country=JP has_pet=false animal=none
+name=Ivy age=29 gender=female country=US has_pet=true animal=cat
+name=Jack age=50 gender=male country=AU has_pet=false animal=none
